@@ -1,0 +1,6 @@
+*.tgz
+*.tar.gz
+.precomp
+.ddt
+.nav-marker-rules
+.travis.yml
