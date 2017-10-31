@@ -15,7 +15,7 @@
   "provides" : {
     "Test::Color" : "lib/Test/Color.pm6"
   },
-  "version" : "1.001001",
+  "version" : "1.001002",
   "meta-version" : "0",
   "authors" : [
     "Markus 'Holli' Holzer",

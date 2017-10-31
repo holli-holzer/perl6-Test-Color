@@ -19,7 +19,7 @@ class Test::Color
   method close { $.handle.close; }
 
   method say ( *@_ ) {
-      $.handle.say( |@_.map({ colorize($_.gist.uc) }) );
+      $.handle.say( |@_.map({ colorize($_.gist) }) );
   }
 
   method put ( *@_) {
